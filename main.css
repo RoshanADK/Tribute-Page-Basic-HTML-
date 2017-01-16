@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+}
+#second-half {
+    margin-top: 50px;
+    border-radius: 7px;
+    padding-left: 5px;
+    background-color:cadetblue;
+    color:floralwhite;
+    font-family: cursive;
+}
+#first-half {
+    font-style:italic;
+    font-size: 20px;
+    font-family:monospace;
+    margin-top: 50px;
+    color: chartreuse;
+}
+body {
+    background-color: black;
+}
+marquee {
+    color:springgreen;
+    font-size: 30px;
+}
+#more {
+    color:darkred;
+     font-size: 20px;
+  font-family: cursive;
+}
